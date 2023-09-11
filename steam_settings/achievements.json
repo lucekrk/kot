@@ -1,0 +1,320 @@
+[
+  {
+    "description": "Complete 10 quests.",
+    "displayName": "Casual Quester",
+    "hidden": "0",
+    "name": "quests_1"
+  },
+  {
+    "description": "Complete 25 quests.",
+    "displayName": "Core Quester",
+    "hidden": "0",
+    "name": "quests_2"
+  },
+  {
+    "description": "Complete 50 quests.",
+    "displayName": "Hardcore Quester",
+    "hidden": "0",
+    "name": "quests_3"
+  },
+  {
+    "description": "Complete 100 quests.",
+    "displayName": "Master Quester",
+    "hidden": "0",
+    "name": "quests_4"
+  },
+  {
+    "description": "Unlock the Good Rod.",
+    "displayName": "Doing Good",
+    "hidden": "0",
+    "name": "rod_1"
+  },
+  {
+    "description": "Unlock the Power Rod.",
+    "displayName": "Powerful",
+    "hidden": "0",
+    "name": "rod_2"
+  },
+  {
+    "description": "Unlock the Quick Rod.",
+    "displayName": "Quickening",
+    "hidden": "0",
+    "name": "rod_3"
+  },
+  {
+    "description": "Unlock the Great Rod.",
+    "displayName": "Doing Great",
+    "hidden": "0",
+    "name": "rod_4"
+  },
+  {
+    "description": "Unlock the Master Rod.",
+    "displayName": "Rod Master",
+    "hidden": "0",
+    "name": "rod_5"
+  },
+  {
+    "description": "Unlock the Minimap.",
+    "displayName": "Peripheral Vision",
+    "hidden": "0",
+    "name": "tool_1"
+  },
+  {
+    "description": "Unlock the Radar.",
+    "displayName": "Eyes Down Deep",
+    "hidden": "0",
+    "name": "tool_2"
+  },
+  {
+    "description": "Unlock the Basic Boat.",
+    "displayName": "Offshoring",
+    "hidden": "0",
+    "name": "boat_1"
+  },
+  {
+    "description": "Unlock the Good Boat.",
+    "displayName": "High Seas",
+    "hidden": "0",
+    "name": "boat_2"
+  },
+  {
+    "description": "Unlock the Great Boat.",
+    "displayName": "Boat Master",
+    "hidden": "0",
+    "name": "boat_3"
+  },
+  {
+    "description": "Upgrade your rod with Scouting.",
+    "displayName": "Scouter",
+    "hidden": "0",
+    "name": "upg_0"
+  },
+  {
+    "description": "Upgrade your rod with a Suspending Lure.",
+    "displayName": "Slow Motion",
+    "hidden": "0",
+    "name": "upg_2"
+  },
+  {
+    "description": "Upgrade your rod with a Sinking Lure.",
+    "displayName": "Fast Forward",
+    "hidden": "0",
+    "name": "upg_1"
+  },
+  {
+    "description": "Upgrade your rod with an Improved Crank.",
+    "displayName": "Hurry up!",
+    "hidden": "0",
+    "name": "upg_3"
+  },
+  {
+    "description": "Upgrade your rod with Attract.",
+    "displayName": "Come Here!",
+    "hidden": "0",
+    "name": "upg_4"
+  },
+  {
+    "description": "Upgrade your rod with Repel.",
+    "displayName": "Go Away!",
+    "hidden": "0",
+    "name": "upg_5"
+  },
+  {
+    "description": "Upgrade your rod with Crankbait.",
+    "displayName": "Stealth Mode",
+    "hidden": "0",
+    "name": "upg_6"
+  },
+  {
+    "description": "Upgrade your rod with Bait Guard.",
+    "displayName": "Paranoia",
+    "hidden": "0",
+    "name": "upg_7"
+  },
+  {
+    "description": "Upgrade a rod with three attracts.",
+    "displayName": "Attraction",
+    "hidden": "1",
+    "name": "attraction"
+  },
+  {
+    "description": "Upgrade a rod with three repels.",
+    "displayName": "Avoidance",
+    "hidden": "1",
+    "name": "repulsion"
+  },
+  {
+    "description": "It's a virtue.",
+    "displayName": "Patience",
+    "hidden": "1",
+    "name": "patience"
+  },
+  {
+    "description": "It's not a virtue.",
+    "displayName": "Impatience",
+    "hidden": "1",
+    "name": "impatience"
+  },
+  {
+    "description": "Because being complicated is cool.",
+    "displayName": "Fine Tuning",
+    "hidden": "1",
+    "name": "finetune"
+  },
+  {
+    "description": "Max improved crank upgrades.",
+    "displayName": "Brute Force",
+    "hidden": "1",
+    "name": "bruteforce"
+  },
+  {
+    "description": "Casting? Never heard of it.",
+    "displayName": "Perpetual Motion",
+    "hidden": "1",
+    "name": "sharkpull"
+  },
+  {
+    "description": "Find a hat.",
+    "displayName": "Such Swag",
+    "hidden": "0",
+    "name": "hat_normal"
+  },
+  {
+    "description": "Find a legendary hat.",
+    "displayName": "Super Swag",
+    "hidden": "0",
+    "name": "hat_legendary"
+  },
+  {
+    "description": "Scare away 15 or more fish with a single bomb.",
+    "displayName": "Boom!",
+    "hidden": "1",
+    "name": "bomb"
+  },
+  {
+    "description": "Catch a Cowfish in Realism mode.",
+    "displayName": "Moo",
+    "hidden": "0",
+    "name": "rf_2_0"
+  },
+  {
+    "description": "Catch a Seraph in Realism mode.",
+    "displayName": "Whee!",
+    "hidden": "0",
+    "name": "rf_2_1"
+  },
+  {
+    "description": "Catch a Turgeon in Realism mode.",
+    "displayName": "The Struggle is Reel",
+    "hidden": "0",
+    "name": "rf_2_2"
+  },
+  {
+    "description": "Catch a Brimble in Realism mode.",
+    "displayName": "No Diving Allowed",
+    "hidden": "0",
+    "name": "rf_2_3"
+  },
+  {
+    "description": "Catch a Georgian in Realism mode.",
+    "displayName": "Georgian",
+    "hidden": "0",
+    "name": "rf_2_4"
+  },
+  {
+    "description": "Catch a Felish in Realism mode.",
+    "displayName": "Felish",
+    "hidden": "0",
+    "name": "rf_2_5"
+  },
+  {
+    "description": "Catch an Anglerfish in Realism mode.",
+    "displayName": "Angler",
+    "hidden": "0",
+    "name": "rf_2_6"
+  },
+  {
+    "description": "Catch a Catfin in Realism mode.",
+    "displayName": "Catfin",
+    "hidden": "0",
+    "name": "rf_2_7"
+  },
+  {
+    "description": "Catch a Trumble in Realism mode.",
+    "displayName": "Trumble",
+    "hidden": "0",
+    "name": "rf_2_8"
+  },
+  {
+    "description": "Catch a Bagu in Realism mode.",
+    "displayName": "Bagu",
+    "hidden": "0",
+    "name": "rf_2_9"
+  },
+  {
+    "description": "Catch a Torby in Realism mode.",
+    "displayName": "On The Brink",
+    "hidden": "0",
+    "name": "rf_2_10"
+  },
+  {
+    "description": "Catch a Bonefish in Realism mode.",
+    "displayName": "Disturbing the Peace",
+    "hidden": "0",
+    "name": "rf_2_11"
+  },
+  {
+    "description": "Catch a Shark in Realism mode.",
+    "displayName": "Shark Slayer",
+    "hidden": "0",
+    "name": "rf_3_0"
+  },
+  {
+    "description": "Catch a Maw in Realism mode.",
+    "displayName": "Master of the Maw",
+    "hidden": "0",
+    "name": "rf_3_1"
+  },
+  {
+    "description": "Catch a Moga in Realism mode.",
+    "displayName": "Moga Moga",
+    "hidden": "0",
+    "name": "rf_3_2"
+  },
+  {
+    "description": "Catch a Tiger Shark in Realism mode.",
+    "displayName": "Tiger Tamer",
+    "hidden": "0",
+    "name": "rf_3_3"
+  },
+  {
+    "description": "Cause the extinction of a species.",
+    "displayName": "Oops",
+    "hidden": "1",
+    "name": "extinction"
+  },
+  {
+    "description": "Catch a Shark with the basic rod.",
+    "displayName": "Clever Cat",
+    "hidden": "1",
+    "name": "basic_shark"
+  },
+  {
+    "description": "Buy a lightbulb lure.",
+    "displayName": "Bright Idea",
+    "hidden": "0",
+    "name": "lure_2"
+  },
+  {
+    "description": "Throw a large or huge fish back.",
+    "displayName": "Suntouched",
+    "hidden": "1",
+    "name": "suntouched"
+  },
+  {
+    "description": "Escape the map.",
+    "displayName": "Escape The Map",
+    "hidden": "1",
+    "name": "escape"
+  }
+]
